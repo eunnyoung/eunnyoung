@@ -4,7 +4,7 @@
 
 ### 
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/repo=github-readme-stats)]
 
 
 
