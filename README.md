@@ -5,7 +5,7 @@ github 블로그는 html 또는 markdown 언어로 작성할 수 있다. 하나�
 <!--
  내가 원하는 이미지는 물결치는 css 효과를 줘서, 모래사장과 일렁이는 파도처럼 보이게 하는 것이다.
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20eunnyoung&twinkling 7s&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=(255,0,255)&height=300&section=header&text=%20eunnyoung&twinkling 7s&fontSize=90" />
 
 
 
