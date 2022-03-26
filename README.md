@@ -12,7 +12,7 @@ github 블로그는 html 또는 markdown 언어로 작성할 수 있다. 하나�
 ### Hi there 👋
 
 ### 
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🌱 I’m currently learning
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
