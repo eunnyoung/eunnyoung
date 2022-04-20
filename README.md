@@ -1,19 +1,10 @@
-<!-- 
-github 블로그는 html 또는 markdown 언어로 작성할 수 있다. 하나의 언어로만 써도 되고, 둘 다 함께 써도 된다.
-지금 학교에서 프론트엔드 강의를 통해 html, css를 배우고 있으니 나는 html로 적을 것이다. 
--->
-<!--
- 내가 원하는 이미지는 물결치는 css 효과를 줘서, 모래사장과 일렁이는 파도처럼 보이게 하는 것이다.
--->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5AD2FF&height=300&section=header&text=%20eunnyoung&twinkling 7s&fontSize=90" />
-
-
 
 ### Hi there 👋
 
 ### 
 - 🌱 I’m currently learning
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![react](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
