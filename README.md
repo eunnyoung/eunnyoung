@@ -1,11 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5AD2FF&height=300&section=header&text=%20eunnyoung&twinkling 7s&fontSize=90" />
 
 ### Hi there 👋
-
+![eunnyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunnyoung&show_icons=true&theme=radical)
 ### 
 - 🌱 I’m currently learnining
 
 <!-- front-end web develop -->
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
@@ -13,11 +22,9 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 <!--
 
@@ -35,7 +42,6 @@
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunnyoung)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
