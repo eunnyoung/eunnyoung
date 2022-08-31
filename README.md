@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5AD2FF&height=300&section=header&text=%20eunnyoung&twinkling 7s&fontSize=90" />
+<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5AD2FF&height=300&section=header&text=%20 eunnyoung&twinkling 7s&fontSize=90" />
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffacd,100:6495ed&text=eunnyoung&height=300)
 
 <h3 align="center">Hi there 👋 I'm eunnyoung!</h3>
 
