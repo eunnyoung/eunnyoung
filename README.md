@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffacd,100:6495ed&text=eunnyoung&height=300)
 
-<h3 align="center">Hi there 👋 I'm eunnyoung!</h3>
+<h3 align="center">Hi, there 👋 I'm eunnyoung!</h3>
 
 
 <!-- front-end web develop -->
@@ -18,7 +18,7 @@
 
 </div>
 
-<div align="center">😄 I interested in</div>
+<div align="center">😄 I participated in projects by using</div>
 <p/>
 <div align="center">
   
