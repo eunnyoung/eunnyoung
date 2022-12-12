@@ -1,16 +1,10 @@
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5AD2FF&height=300&section=header&text=%20 eunnyoung&twinkling 7s&fontSize=90" />
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fffacd,100:6495ed&text=eunnyoung&height=300)
 
-<h3 align="center">Hi, there 👋 I'm eunnyoung!</h3>
+<h3 align="center">안녕하세요. 개발자 eunnyoung 입니다.</h3>
 
 
-<!-- front-end web develop -->
 <div align="center">🌱 I’m currently learnining</div>
-<p/>
-<div align="center">
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,9 +12,13 @@
 
 </div>
 
-<div align="center">😄 I participated in projects by using</div>
-<p/>
-<div align="center">
+
+  저는 다음과 같은 프로젝트에 참여했습니다.
+<br/>* 인공지능 챗 봇 웹
+<br/>* 반려동물 여행 커뮤니티 웹
+<br/>* 보도블록 알림 모바일 서비스
+<br/>
+
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
