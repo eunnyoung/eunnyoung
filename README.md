@@ -18,7 +18,7 @@
 ## Projects
 - 인공지능 챗 봇 웹
   - 인공지능 챗 봇과 대화를 할 수 있는 웹입니다.
-  - React 를 사용하여 Client 를 구현에 참여하였습니다.
+  - React 를 사용하여 Client 구현에 참여하였습니다.
   - https://github.com/cheomuk/ChatbotWebSite.git
 - 반려동물 여행 커뮤니티 웹
   - 반려동물 여행과 관련된 게시글을 올리는 커뮤니티 웹입니다.
