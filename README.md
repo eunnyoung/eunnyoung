@@ -16,18 +16,26 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Projects
-- 인공지능 챗 봇 웹
-  - 인공지능 챗 봇과 대화를 할 수 있는 웹입니다.
-  - React 를 사용하여 Client 구현에 참여하였습니다.
-  - https://github.com/cheomuk/ChatbotWebSite.git
-- 반려동물 여행 커뮤니티 웹
-  - 반려동물 여행과 관련된 게시글을 올리는 커뮤니티 웹입니다.
-  - React, TypeScript, Next.js 를 사용하여 Client 구현에 참여하였습니다.
-  - https://github.com/potato-club/travel-with-pet.git
 - 보도블록 알림 모바일 서비스
+  - 프로젝트 기간: 2022.08. - 현재
   - 오설치된 보도 블록 알림 서비스를 제공하여 도보 통행의 안전과 편의성을 제공합니다.
   - React Native, TypeScript 를 사용하여 Client 구현에 참여하였습니다.
   - https://github.com/mudokja/yellowblockAPP.git
+- 반려동물 여행 커뮤니티 웹
+  - 프로젝트 기간: 2022.03. - 2022.06.16.
+  - 반려동물 여행과 관련된 게시글을 올리는 커뮤니티 웹입니다.
+  - React, TypeScript, Next.js 를 사용하여 Client 구현에 참여하였습니다.
+  - https://github.com/potato-club/travel-with-pet.git
+- 반려동물 여행 커뮤니티 웹
+  - 프로젝트 기간: 2022.03. - 2022.06.16.
+  - 반려동물 여행과 관련된 게시글을 올리는 커뮤니티 웹입니다.
+  - React, TypeScript, Next.js 를 사용하여 Client 구현에 참여하였습니다.
+  
+- 인공지능 챗 봇 웹
+  - 프로젝트 기간: 2022.12.31. - 2022.02.11.
+  - 인공지능 챗 봇과 대화를 할 수 있는 웹입니다.
+  - React 를 사용하여 Client 구현에 참여하였습니다.
+  - https://github.com/cheomuk/ChatbotWebSite.git
 
 ## Commits
 <!-- 깃허브 스탯 박스 -->
